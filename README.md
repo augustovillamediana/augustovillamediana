@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @augustovillamediana
-- 👀 I’m interested in Linux and Data Science
-- 🌱 I’m currently learning Nix and NixOS
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on free software
 - 📫 You can reach me on [my website](https://augustovillamediana.github.io)
 
